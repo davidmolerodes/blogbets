@@ -1,0 +1,9 @@
+{
+  "compatibilityMode": false,
+  "productionMode": false,
+  "npmFolder": "/Users/deivddds/Desktop/blogbets",
+  "generatedFolder": "/Users/deivddds/Desktop/blogbets/target/frontend",
+  "frontendFolder": "/Users/deivddds/Desktop/blogbets/frontend",
+  "pnpm.enable": false,
+  "require.home.node": false
+}
